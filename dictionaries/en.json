@@ -1,0 +1,11 @@
+{
+    "hero": {
+        "title": "Discover Next-Gen Commerce",
+        "subtitle": "Search, compare, and buy across top GCC merchants."
+    },
+    "product": {
+        "aiSummary": "AI Product Insights",
+        "addToCart": "Add to Cart",
+        "outOfStock": "Out of Stock"
+    }
+}
